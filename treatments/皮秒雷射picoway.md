@@ -65,17 +65,17 @@ B. 全像聚焦模式→除皺回春│改善痘疤│提升膠原蛋白增生
  <div style="position:relative;height:0;padding-bottom:56.33%"><iframe src="https://www.youtube.com/embed/h_LVaraQZfo?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="639" height="360" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
  
 > 《適用於亞洲女性雙波長1064nm及532nm》
- 
+ ![](http://www.dr-shine.com.tw/DB/Upload/2017022310265673894.png)
 - 特別針對亞洲人膚色的1064nm及532nm雙波長，黑色素吸收不會太強，不易造成術後反白或反黑的機率。
  
 - 雙波長讓治療範圍更廣除了可利用1064nm波長針對深層斑點掃除外，亦能使用532nm作為一般淨膚雷射保養使用。
  
 - 除了PICOSURE蜂巢皮秒可對應的顏色外，PICOWAY還多了對應紅│黃│橙色的功能。
- 
+ ![](http://www.dr-shine.com.tw/DB/Upload/2017022310275679144.png)
 
  
 ## 專精聚焦探頭 精準的聚焦釋放較強的能量聚焦
-
+![](http://www.dr-shine.com.tw/DB/Upload/2017022310283676085.png)
  
 - 貴婦級的隱形飛梭功能
 - 外表無傷口/24小時內修護/舒適
@@ -83,13 +83,10 @@ B. 全像聚焦模式→除皺回春│改善痘疤│提升膠原蛋白增生
  
  
 ## PICOWAY全像超皮秒適應症  
--良性色素性斑點：肝斑、雀斑、曬斑、老人斑、顴骨母斑、太田母斑、膚色不均勻
--除多色刺青：
- 532nm-紅色│黃色│橘色
+- 良性色素性斑點：肝斑、雀斑、曬斑、老人斑、顴骨母斑、太田母斑、膚色不均勻
+- 除多色刺青：
+ 532nm-紅色│黃色│橘色  
  1064nm-黑色│棕色│綠色│藍色│紫色
- 
-
- 
 
 ## 光澤皮秒除斑系統-多段波長滿足除斑需求  
 光澤診所同時擁有755nm波長PICOSURE蜂巢皮秒 與532nm│1064nm波長PICOWAY全像超皮秒儀器，讓您輕鬆對抗斑點問題，擁有蛋肌般閃耀光澤肌。
