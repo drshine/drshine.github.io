@@ -62,7 +62,7 @@
 A. 標準模式→除斑│除刺青│除眉紋│淨膚  
 B. 全像聚焦模式→除皺回春│改善痘疤│提升膠原蛋白增生
 
- <div style="position:relative;height:0;padding-bottom:56.33%"><iframe src="https://www.youtube.com/embed/h_LVaraQZfo?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="639" height="360" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
+<iframe src="https://www.youtube.com/embed/h_LVaraQZfo?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="639" height="360" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
  
 > 《適用於亞洲女性雙波長1064nm及532nm》
  ![](http://www.dr-shine.com.tw/DB/Upload/2017022310265673894.png)
