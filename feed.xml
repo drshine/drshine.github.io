@@ -3,10 +3,10 @@
   <channel>
     <title>光澤診所-台北忠孝</title>
     <description>光澤醫學美容提供減脂、雷射除毛、藝術面雕、專業皮膚科、洢蓮絲、整型、鼻整、雙眼皮、皮秒雷射、女性私密、miraDry微舒淨、肉毒桿菌、玻尿酸</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Dec 2017 14:14:02 +0800</pubDate>
-    <lastBuildDate>Sat, 02 Dec 2017 14:14:02 +0800</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 02 Dec 2017 15:42:49 +0800</pubDate>
+    <lastBuildDate>Sat, 02 Dec 2017 15:42:49 +0800</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -164,6 +164,14 @@
 &lt;p&gt;&lt;img src=&quot;http://www.dr-shine.com.tw/DB/Upload/2015113014074229177.jpg&quot; alt=&quot;&quot; /&gt;
  &lt;img src=&quot;http://www.dr-shine.com.tw/DB/Upload/2015113014075762252.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
+&lt;h2 id=&quot;實際案例&quot;&gt;實際案例&lt;/h2&gt;
+
+&lt;p&gt; &lt;img src=&quot;/assets/imgs/yisu.jpg&quot; alt=&quot;藝術面雕&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/yisu1.png&quot; alt=&quot;藝術面雕&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/yisu2.jpg&quot; alt=&quot;藝術面雕&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;選擇光澤藝術面雕，除了能較快的幫您創造完美輪廓之外，更能幫您創造好命福相，幫助您愛情、事業得意、財運滾滾喔！&lt;/p&gt;
 
 &lt;h2 id=&quot;注意事項&quot;&gt;注意事項&lt;/h2&gt;
@@ -183,8 +191,8 @@
 &lt;/blockquote&gt;
 </description>
         <pubDate>Thu, 30 Nov 2017 00:00:00 +0800</pubDate>
-        <link>/2017/11/30/%E8%97%9D%E8%A1%93%E9%9D%A2%E9%9B%9536800/</link>
-        <guid isPermaLink="true">/2017/11/30/%E8%97%9D%E8%A1%93%E9%9D%A2%E9%9B%9536800/</guid>
+        <link>http://localhost:4000/2017/11/30/%E8%97%9D%E8%A1%93%E9%9D%A2%E9%9B%9536800/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/11/30/%E8%97%9D%E8%A1%93%E9%9D%A2%E9%9B%9536800/</guid>
         
         
         <category>藝術面雕</category>
@@ -256,8 +264,8 @@
 &lt;p&gt;自體脂肪填補乍看之下，是一個非常正面並且相對於假體填充是相對安全樂觀的新世代手術，但是這一切的過程以及改善效果的生殺大權都掌握在「專業醫師手上」，任何的手術療程都會產生一定的風險成分，因此在進行手術之前，您可能需要多與醫師討論，並且選擇合格專業的醫師及醫院更是至關重要。光澤診所-陳瑋農醫師&lt;/p&gt;
 </description>
         <pubDate>Thu, 30 Nov 2017 00:00:00 +0800</pubDate>
-        <link>/2017/11/30/%E8%87%AA%E9%AB%94%E8%84%82%E8%82%AA%E5%A1%AB%E8%A3%9C/</link>
-        <guid isPermaLink="true">/2017/11/30/%E8%87%AA%E9%AB%94%E8%84%82%E8%82%AA%E5%A1%AB%E8%A3%9C/</guid>
+        <link>http://localhost:4000/2017/11/30/%E8%87%AA%E9%AB%94%E8%84%82%E8%82%AA%E5%A1%AB%E8%A3%9C/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/11/30/%E8%87%AA%E9%AB%94%E8%84%82%E8%82%AA%E5%A1%AB%E8%A3%9C/</guid>
         
         
         <category>自體脂肪填補</category>
@@ -444,8 +452,8 @@
 &lt;/blockquote&gt;
 </description>
         <pubDate>Thu, 30 Nov 2017 00:00:00 +0800</pubDate>
-        <link>/2017/11/30/%E7%A7%81%E5%AF%86%E5%B9%B8%E7%A6%8F%E9%9B%B7%E5%B0%8418888/</link>
-        <guid isPermaLink="true">/2017/11/30/%E7%A7%81%E5%AF%86%E5%B9%B8%E7%A6%8F%E9%9B%B7%E5%B0%8418888/</guid>
+        <link>http://localhost:4000/2017/11/30/%E7%A7%81%E5%AF%86%E5%B9%B8%E7%A6%8F%E9%9B%B7%E5%B0%8418888/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/11/30/%E7%A7%81%E5%AF%86%E5%B9%B8%E7%A6%8F%E9%9B%B7%E5%B0%8418888/</guid>
         
         
         <category>雷射</category>
@@ -670,8 +678,8 @@ B. 全像聚焦模式→除皺回春│改善痘疤│提升膠原蛋白增生&l
 &lt;/blockquote&gt;
 </description>
         <pubDate>Thu, 30 Nov 2017 00:00:00 +0800</pubDate>
-        <link>/2017/11/30/%E7%9A%AE%E7%A7%92%E9%9B%B7%E5%B0%8422000/</link>
-        <guid isPermaLink="true">/2017/11/30/%E7%9A%AE%E7%A7%92%E9%9B%B7%E5%B0%8422000/</guid>
+        <link>http://localhost:4000/2017/11/30/%E7%9A%AE%E7%A7%92%E9%9B%B7%E5%B0%8422000/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/11/30/%E7%9A%AE%E7%A7%92%E9%9B%B7%E5%B0%8422000/</guid>
         
         
         <category>ulthera</category>
@@ -741,8 +749,8 @@ B. 全像聚焦模式→除皺回春│改善痘疤│提升膠原蛋白增生&l
 
 </description>
         <pubDate>Thu, 30 Nov 2017 00:00:00 +0800</pubDate>
-        <link>/2017/11/30/%E7%84%A1%E7%97%95%E7%9C%BC%E8%A2%8B%E7%A5%9B%E9%99%A4/</link>
-        <guid isPermaLink="true">/2017/11/30/%E7%84%A1%E7%97%95%E7%9C%BC%E8%A2%8B%E7%A5%9B%E9%99%A4/</guid>
+        <link>http://localhost:4000/2017/11/30/%E7%84%A1%E7%97%95%E7%9C%BC%E8%A2%8B%E7%A5%9B%E9%99%A4/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/11/30/%E7%84%A1%E7%97%95%E7%9C%BC%E8%A2%8B%E7%A5%9B%E9%99%A4/</guid>
         
         
         <category>整型外科</category>
@@ -854,9 +862,13 @@ B. 全像聚焦模式→除皺回春│改善痘疤│提升膠原蛋白增生&l
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h2 id=&quot;案例分享&quot;&gt;案例分享&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;http://www.dr-shine.com.tw/DB/Upload/2017011915414235420.jpg&quot; alt=&quot;案例分享&quot; /&gt;&lt;br /&gt;
-術後約70天,眼部細紋明顯消失!&lt;/p&gt;
+&lt;h2 id=&quot;真實的案例&quot;&gt;真實的案例&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.dr-shine.com.tw/DB/Upload/2017011915414235420.jpg&quot; alt=&quot;案例分享&quot; /&gt;
+▲術後約70天,眼部細紋明顯消失!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/yinpo.png&quot; alt=&quot;音波照片&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/yinpo2.png&quot; alt=&quot;音波照片&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;我想詢問更多問題&quot;&gt;我想詢問更多問題!&lt;/h2&gt;
 
@@ -876,8 +888,8 @@ A3.適合音波無影線拉皮治療的人，一般來說是皮膚開始出現�
 &lt;/blockquote&gt;
 </description>
         <pubDate>Thu, 30 Nov 2017 00:00:00 +0800</pubDate>
-        <link>/2017/11/30/%E6%A5%B5%E7%B7%9A%E9%9F%B3%E6%B3%A2%E6%8B%89%E7%9A%AE48800/</link>
-        <guid isPermaLink="true">/2017/11/30/%E6%A5%B5%E7%B7%9A%E9%9F%B3%E6%B3%A2%E6%8B%89%E7%9A%AE48800/</guid>
+        <link>http://localhost:4000/2017/11/30/%E6%A5%B5%E7%B7%9A%E9%9F%B3%E6%B3%A2%E6%8B%89%E7%9A%AE48800/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/11/30/%E6%A5%B5%E7%B7%9A%E9%9F%B3%E6%B3%A2%E6%8B%89%E7%9A%AE48800/</guid>
         
         
         <category>ulthera</category>
