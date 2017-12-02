@@ -1,1 +1,1 @@
-Sitemap: /blog.drshine-tpe.com/sitemap.xml
+Sitemap: /sitemap.xml

@@ -10,7 +10,7 @@
   <meta name="author" content="Drshine">
   <meta name="description" content="">
   <meta property="og:title" content="光澤診所-台北忠孝">
-  <meta property="og:url" content="blog.drshine-tpe.com/index.md(Backup)">
+  <meta property="og:url" content="/index.md(Backup)">
   <meta property="og:site_name" content="光澤診所-台北忠孝">
   <meta property="og:description" content="">
   <meta property="og:image" content="">
@@ -19,7 +19,7 @@
   <meta name="twitter:card" content="summary">
   <meta name="twitter:description" content="">
   <meta name="twitter:title" content="光澤診所-台北忠孝">
-  <meta name="twitter:url" content="blog.drshine-tpe.com/index.md(Backup)">
+  <meta name="twitter:url" content="/index.md(Backup)">
   <meta name="twitter:site" content="光澤診所-台北忠孝">
   <meta name="twitter:creator" content="@">
   <meta name="twitter:domain" content="">
@@ -29,10 +29,10 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.min.css">
-  <link rel="stylesheet" href="blog.drshine-tpe.com/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/main.css">
 
-  <link rel="alternate" type="application/rss+xml" title="光澤診所-台北忠孝" href="blog.drshine-tpe.com/feed.xml">
-  <link rel="canonical" href="blog.drshine-tpe.com/index.md(Backup)">
+  <link rel="alternate" type="application/rss+xml" title="光澤診所-台北忠孝" href="/feed.xml">
+  <link rel="canonical" href="/index.md(Backup)">
 
   
 </head>
@@ -66,7 +66,7 @@
       
 
       <footer class="section-padding--sm footer">
-  <a class="footer__archive" href="blog.drshine-tpe.com/archive/">Archive</a>
+  <a class="footer__archive" href="/archive/">Archive</a>
   <ul class="footer__social">
     <li><a class="fa fa-lg fa-envelope-o" href="mailto:"></a></li>
     
@@ -83,7 +83,7 @@
     
       <li class="card">
         
-        <a class="card__link" href="blog.drshine-tpe.com/category/ulthera/">
+        <a class="card__link" href="/category/ulthera/">
           
             <div class="card__img">
               
@@ -101,7 +101,7 @@
     
       <li class="card">
         
-        <a class="card__link" href="blog.drshine-tpe.com/category/年終慶/">
+        <a class="card__link" href="/category/年終慶/">
           
             <div class="card__img">
               
@@ -119,7 +119,7 @@
     
       <li class="card">
         
-        <a class="card__link" href="blog.drshine-tpe.com/category/整型外科/">
+        <a class="card__link" href="/category/整型外科/">
           
             <div class="card__img">
               
@@ -137,7 +137,7 @@
     
       <li class="card">
         
-        <a class="card__link" href="blog.drshine-tpe.com/category/自體脂肪填補/">
+        <a class="card__link" href="/category/自體脂肪填補/">
           
             <div class="card__img">
               
@@ -155,7 +155,7 @@
     
       <li class="card">
         
-        <a class="card__link" href="blog.drshine-tpe.com/category/藝術面雕/">
+        <a class="card__link" href="/category/藝術面雕/">
           
             <div class="card__img">
               
@@ -173,7 +173,7 @@
     
       <li class="card">
         
-        <a class="card__link" href="blog.drshine-tpe.com/category/雷射/">
+        <a class="card__link" href="/category/雷射/">
           
             <div class="card__img">
               
@@ -192,7 +192,7 @@
   </ul>
 
   <footer class="section-padding--sm footer">
-  <a class="footer__archive" href="blog.drshine-tpe.com/archive/">Archive</a>
+  <a class="footer__archive" href="/archive/">Archive</a>
   <ul class="footer__social">
     <li><a class="fa fa-lg fa-envelope-o" href="mailto:"></a></li>
     
@@ -210,7 +210,7 @@
 
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/rellax/1.0.0/rellax.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
-<script type="text/javascript" src="blog.drshine-tpe.com/assets/js/app.js"></script>
+<script type="text/javascript" src="/assets/js/app.js"></script>
 
 
   </body>
