@@ -314,8 +314,12 @@
     </main>
 
     <script>
-  fbq('track', 'ViewContent');
+  fbq('track', 'ViewContent', {
+    value: 5000,
+    currency: 'TWD',
+  });
 </script>
+
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/rellax/1.0.0/rellax.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
 <script type="text/javascript" src="/assets/js/app.js"></script>
