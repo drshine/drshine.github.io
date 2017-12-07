@@ -56,10 +56,6 @@
     'https://connect.facebook.net/en_US/fbevents.js');
     fbq('init', '535092209979756');
     fbq('track', 'PageView');
-    fbq('track', 'ViewContent', {
-    value: 5000,
-    currency: 'TWD',
-  });
   </script>
   <noscript><img height="1" width="1" style="display:none"
     src="https://www.facebook.com/tr?id=535092209979756&ev=PageView&noscript=1"
@@ -67,9 +63,15 @@
   <!-- End Facebook Pixel Code -->
 </head>
 
-
+  
   <body>
-
+    <script>
+      fbq('track', 'ViewContent', {
+        value: 5000,
+        currency: 'TWD',
+      });
+    </script>
+    
     <main>
       <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
 
