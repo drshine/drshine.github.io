@@ -65,6 +65,24 @@
 
 
 <body>
+    <script>
+        window.fbAsyncInit = function() {
+          FB.init({
+            appId            : '830366850456251',
+            autoLogAppEvents : true,
+            xfbml            : true,
+            version          : 'v2.11'
+          });
+        };
+      
+        (function(d, s, id){
+           var js, fjs = d.getElementsByTagName(s)[0];
+           if (d.getElementById(id)) {return;}
+           js = d.createElement(s); js.id = id;
+           js.src = "https://connect.facebook.net/en_US/sdk.js";
+           fjs.parentNode.insertBefore(js, fjs);
+         }(document, 'script', 'facebook-jssdk'));
+      </script>
   <script>
     fbq('track', 'ViewContent', {
       value: 50,
@@ -278,7 +296,10 @@
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/rellax/1.0.0/rellax.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
 <script type="text/javascript" src="/assets/js/app.js"></script>
-
+<div class="fb-customerchat"
+page_id="1668744910028064"
+minimized="true">
+</div>
 
 </body>
 
