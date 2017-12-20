@@ -3,20 +3,10 @@
 [debug] CLI Version:  3.1.0
 [debug] Platform:     darwin
 [debug] Node Version: v6.9.1
-[debug] Time:         Wed Dec 13 2017 13:51:46 GMT+0800 (CST)
+[debug] Time:         Wed Dec 20 2017 12:52:49 GMT+0800 (CST)
 [debug] ----------------------------------------------------------------------
 [debug] 
 [debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
-[debug] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
-[debug] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token
-[debug] <<< HTTP RESPONSE 200
 [debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/website-drshine 
 [debug] <<< HTTP RESPONSE 200
 [debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/website-drshine/tokens 
-[debug] <<< HTTP RESPONSE 200
-[info] 
-[info] === Deploying to 'website-drshine'...
-[info] 
-[info] i  deploying hosting
-[info] i  hosting: preparing _site directory for upload...
-[debug] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/website-drshine/uploads/-L0DQSQBBu5fEjFeAfEA?fileCount=10630&message= 
