@@ -3,11 +3,10 @@
 [debug] CLI Version:  3.1.0
 [debug] Platform:     darwin
 [debug] Node Version: v6.9.1
-[debug] Time:         Thu Dec 21 2017 14:44:04 GMT+0800 (CST)
+[debug] Time:         Thu Dec 21 2017 14:46:29 GMT+0800 (CST)
 [debug] ----------------------------------------------------------------------
 [debug] 
 [debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
-[debug] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
-[debug] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token
-[debug] <<< HTTP RESPONSE 200
 [debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/website-drshine 
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/website-drshine/tokens 
